@@ -2,7 +2,7 @@
 
 ![bachelor holding a rose](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/the-bachelor/The-Bachelor.jpg)
 
-## Objectives
+## Objectiveshttps://learn.co/tracks/web-development-fundamentals/intro-to-ruby/more-on-hashes/bachelor-nested-iteration#
 1. Learn about JSON data
 2. Practice iterating over nested hashes
 
